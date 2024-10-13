@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-uploadings-app/static/css/main.a67f6b82.chunk.css",
+    "main.js": "/my-uploadings-app/static/js/main.3c25dbc8.chunk.js",
+    "main.js.map": "/my-uploadings-app/static/js/main.3c25dbc8.chunk.js.map",
+    "runtime-main.js": "/my-uploadings-app/static/js/runtime-main.31f0d082.js",
+    "runtime-main.js.map": "/my-uploadings-app/static/js/runtime-main.31f0d082.js.map",
+    "static/js/2.159a0138.chunk.js": "/my-uploadings-app/static/js/2.159a0138.chunk.js",
+    "static/js/2.159a0138.chunk.js.map": "/my-uploadings-app/static/js/2.159a0138.chunk.js.map",
+    "index.html": "/my-uploadings-app/index.html",
+    "static/css/main.a67f6b82.chunk.css.map": "/my-uploadings-app/static/css/main.a67f6b82.chunk.css.map",
+    "static/js/2.159a0138.chunk.js.LICENSE.txt": "/my-uploadings-app/static/js/2.159a0138.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31f0d082.js",
+    "static/js/2.159a0138.chunk.js",
+    "static/css/main.a67f6b82.chunk.css",
+    "static/js/main.3c25dbc8.chunk.js"
+  ]
+}
